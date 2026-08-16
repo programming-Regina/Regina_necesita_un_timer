@@ -130,14 +130,14 @@ Son valores iniciales configurables, no una recomendación de productividad.
 Requiere Windows y Python 3. Usa `tkinter` (parte de la instalación estándar en Windows) y `winsound` para los avisos sonoros.
 
 ```bash
-python regina_timer_v03_2.py
+python regina_timer_v03.2.py
 ```
 
 O con un `.bat` de doble clic, para no dejar la consola abierta:
 
 ```bat
 @echo off
-start "" pythonw "%~dp0regina_timer_v03_2.py"
+start "" pythonw "%~dp0regina_timer_v03.2.py"
 ```
 
 ## Limitaciones
