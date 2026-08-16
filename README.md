@@ -2,7 +2,8 @@
 
 Un timer de escritorio hecho en Python + Tkinter, diseñado para un problema muy concreto: el hiperfoco no sabe cuándo parar, y la procrastinación no sabe cuándo empezar.
 
-La historia completa va a estar en un posteo de LinkedIn (el enlace se agrega cuando esté publicado). Acá va la parte técnica, para quien esté aprendiendo a construir timers en Python.
+La historia completa está en [mi posteo de LinkedIn](https://lnkd.in/p/d5JCRfPJ). Acá va la parte técnica, para quien esté aprendiendo a construir timers en Python.
+
 
 <p align="center">
 <img width="355" height="537" alt="timer" src="https://github.com/user-attachments/assets/33913cf4-bc6f-4fdd-ac54-7aef0bab058d" />
