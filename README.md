@@ -150,7 +150,7 @@ Pensado para Windows por `winsound`. La parte gráfica es Tkinter y podría port
 
 Es un experimento chico alrededor de una pregunta real: ¿qué pasa cuando la atención no gestiona bien el tiempo? La respuesta no es necesariamente más disciplina. A veces es sacar ciertas decisiones de la cabeza y convertirlas en señales externas — para empezar, para parar, para descansar, para tomar agua, para corregir la postura. El objetivo no es controlar cuánto trabajás; es reducir lo que tenés que recordar mientras lo hacés.
 
-## ¿Por qué "Regina Timer"?
+## ¿Por qué "Regina necesita un Timer"?
 
 Porque lo hice para mí. Y porque, después de años trabajando con tecnología, terminé programando una aplicación para que me recuerde tomar agua. La informática alcanzó un nuevo nivel de sofisticación. 😅
 
