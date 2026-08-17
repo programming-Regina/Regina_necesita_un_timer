@@ -107,7 +107,7 @@ El dial usa tres colores para el trabajo (verde con más de la mitad del tiempo,
 
 El aviso de agua/postura usa contraste fuerte a propósito: cinco segundos de atención corporal, sin ventana emergente, sin pausar el trabajo ni tocar el tiempo del timer.
 
-Y cuando termina un descanso aparece un monstruo bailando. No tiene ninguna justificación técnica. Es Mang.
+Y cuando termina un descanso aparece un monstruito bailando. No tiene ninguna justificación técnica. Es Mang.
 
 ---
 
@@ -142,13 +142,13 @@ start "" pythonw "%~dp0regina_timer_v03.2.py"
 
 ## Limitaciones
 
-Pensado para Windows por `winsound`. La parte gráfica es Tkinter y podría portarse a otros sistemas, pero habría que reemplazar el sonido y revisar el comportamiento de la interfaz en cada plataforma. No tiene base de datos, cuentas, sincronización, estadísticas ni historial — a propósito.
+Pensado para Windows por `winsound`. La parte gráfica es Tkinter y podría portarse a otros sistemas, pero habría que reemplazar el sonido y revisar el comportamiento de la interfaz en cada plataforma. No tiene base de datos, cuentas, sincronización, estadísticas ni historial.
 
 ---
 
 ## Por qué existe
 
-Es un experimento chico alrededor de una pregunta real: ¿qué pasa cuando la atención no gestiona bien el tiempo? La respuesta no es necesariamente más disciplina. A veces es sacar ciertas decisiones de la cabeza y convertirlas en señales externas — para empezar, para parar, para descansar, para tomar agua, para corregir la postura. El objetivo no es controlar cuánto trabajás; es reducir lo que tenés que recordar mientras lo hacés.
+Es un experimento chico alrededor de una pregunta real: ¿qué pasa cuando la atención no gestiona bien el tiempo? La respuesta no es necesariamente más disciplina. A veces es sacar ciertas decisiones de la cabeza y convertirlas en señales externas - para empezar, para parar, para descansar, para tomar agua, para corregir la postura. El objetivo es reducir lo que tenés que recordar mientras trabajás.
 
 ## ¿Por qué "Regina necesita un Timer"?
 
